@@ -12,19 +12,19 @@ Recognition at GM as a Process Engineer for the Battery Plant
 <br />
 <br />
   <br/>
-<img src="https://i.imgur.com/6WhsJbQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6WhsJbQ.png" height="80%" width="80%" />
 <br />
 <br />
   <br/>
-<img src="https://i.imgur.com/kkKUdOY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kkKUdOY.png" height="80%" width="80%" />
 <br />
 <br />
   <br/>
-<img src="https://i.imgur.com/EYkWVpi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EYkWVpi.png" height="80%" width="80%" />
 <br />
 <br />
  <br/>
-<img src="https://i.imgur.com/YwJAcai.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YwJAcai.png" height="80%" width="80%" />
 <br />
 <br />
  <br/>
